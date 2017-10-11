@@ -1,0 +1,16 @@
+<head>
+	<title>My four pets</title>
+	<link href="styles.css" rel="stylesheet">
+</head>
+body {background:lightblue;
+color:darkblue 
+font-size:16pt;}
+body { font-family: 'Modak' , sans-serif; }
+nav li { display: inline-block }
+nav li { border: 2px solid black }
+body { border: 2px solid black }
+a { color: darkred;
+    text-decoration: none }
+a:hover { color: red }
+.title {font-weight: bold;
+        text-decoration: underline; }
